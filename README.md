@@ -1,6 +1,6 @@
-AR Tower Defense
-Realizado por:
-Alejandro Boix Pérez
-Carlos Fernando Izquierdo Riera
-Laura Mesa Chaler
-Denis Bernalte Severianov 
+# AR Tower Defense
+Realizado por:<br>
+Alejandro Boix Pérez<br>
+Carlos Fernando Izquierdo Riera<br>
+Laura Mesa Chaler<br>
+Denis Bernalte Severianov <br>
