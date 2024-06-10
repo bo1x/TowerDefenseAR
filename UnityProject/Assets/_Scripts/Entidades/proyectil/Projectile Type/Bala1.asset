@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e0bdbd044771a4da3fee8bae87279e, type: 3}
+  m_Name: Bala1
+  m_EditorClassIdentifier: 
+  Modelo3D: {fileID: 4711208715938537054, guid: 50e1c3286b497974b83e78f8be88c011,
+    type: 3}
+  MaterialDeLaBala: {fileID: 2100000, guid: 6cc2ec433be2c534b95fe099d9767d8e, type: 2}
+  Damage: 1
+  TiempoDeVida: 20
+  scale: {x: 3, y: 3, z: 3}
+  TamanyoDeLaBala: {x: 0.2, y: 0.2, z: 0.2}
+  TamanyoEnArea: {x: 0, y: 0, z: 0}
+  Velocidad: 10
